@@ -2,6 +2,8 @@
 
 A small collection of multilingual editions: Ancient Greek and Portuguese.
 
+Texts are formatted according to the standards of the [CITE Architecture](http://cite-architecture.org).
+
 ## Text Browser
 
 The [CITE App for browsing and searching texts with canonical citation.](https://furman-editions-in-progress.github.io/UNESP_FU/cite-1.14.0.html)
@@ -19,4 +21,11 @@ The [CITE App for browsing and searching texts with canonical citation.](https:/
 	- [Book 1, 1-10](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_odyssey1.html?urn=urn:cts:greekLit:tlg0012.tlg002.murray.token:1.1-1.10&urn=urn:cts:greekLit:tlg0012.tlg002.werner.token:1.1-1.10&urn=)
 	- [Book 1, 11-21](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_odyssey1.html?urn=urn:cts:greekLit:tlg0012.tlg002.murray.token:1.11-1.21&urn=urn:cts:greekLit:tlg0012.tlg002.werner.token:1.11-1.21&urn=)
 
+## Collaborators
+
+- Anise Ferreira, UNESP.
+- Christopher Blackwell, Furman University.
+- Chiara Palladino, Furman University.
+- Randall Childree, Furman University.
+- Eunice Kim, Furman University.
 

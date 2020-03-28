@@ -29,9 +29,10 @@ The [CITE App for browsing and searching texts with canonical citation.](https:/
 	- [Fable 16](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_aesop.html?urn=urn:cts:greekLit:tlg0096.tlg002.First1K-grc1.token:16&urn=urn:cts:greekLit:tlg0096.tlg002.mcdezotti.token:16&urn=)
 	- [Fable 17](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_aesop.html?urn=urn:cts:greekLit:tlg0096.tlg002.First1K-grc1.token:17&urn=urn:cts:greekLit:tlg0096.tlg002.mcdezotti.token:17&urn=)
 
-- Artemidorus, *Onirocriticon* (*On the Interpretation of Dreams*)
+- Artemidorus, *Onirocriticon* (*On the Interpretation of Dreams*). Book V
 	- [Prooimion](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.prooimion&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.prooimion&urn=)
 	- [Section 1](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.1&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.1&urn=)
+	- [Section 2](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.2&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.2&urn=)
 - Homer, *Odyssey*
 	- [*Odyssey* 1](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_odyssey_1.html?urn=urn:cts:greekLit:tlg0012.tlg002.murray.token:1.1-1.10&urn=urn:cts:greekLit:tlg0012.tlg002.werner.token:1.1-1.10&urn=)
 	- [*Odyssey* 2](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_odyssey_2.html?urn=urn:cts:greekLit:tlg0012.tlg002.murray.token:2.1-2.10&urn=urn:cts:greekLit:tlg0012.tlg002.werner.token:2.1-2.10&urn=)

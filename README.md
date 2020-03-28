@@ -46,9 +46,10 @@ The [CITE App for browsing and searching texts with canonical citation.](https:/
 
 ## Collaborators
 
-- Anise Ferreira, UNESP.
+- Anise Ferreira and M. Celeste C. Dezotti, UNESP.
 - Christopher Blackwell, Furman University.
 - Chiara Palladino, Furman University.
 - Randall Childree, Furman University.
 - Eunice Kim, Furman University.
+
 

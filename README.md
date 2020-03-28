@@ -36,6 +36,14 @@ The [CITE App for browsing and searching texts with canonical citation.](https:/
 	- [Section 3](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.3&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.3&urn=)
 	- [Section 4](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.4&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.4&urn=)
 	- [Section 5](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.5&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.5&urn=)
+	- [Section 6-10](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.6-5.10&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.6-5.10&urn=)
+	- [Section 11-15](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.6-5.15&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.6-5.15&urn=)
+	- [Section 16-20](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.16-5.20&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.16-5.20&urn=)
+	- [Section 21-25](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.21-5.25&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.21-5.25&urn=)
+	- [Section 26-30](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.26-5.30&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.26-5.30&urn=)
+	- [Section 31-40](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.31-5.40&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.31-5.40&urn=)
+	- [Section 41-50](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_artemidorus.html?urn=urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1.token:5.41-5.50&urn=urn:cts:greekLit:tlg0553.tlg001.ferreira.token:5.41-5.50&urn=)
+	- tbc
 
 - Homer, *Odyssey*
 	- [*Odyssey* 1](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_odyssey_1.html?urn=urn:cts:greekLit:tlg0012.tlg002.murray.token:1.1-1.10&urn=urn:cts:greekLit:tlg0012.tlg002.werner.token:1.1-1.10&urn=)

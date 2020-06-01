@@ -8,7 +8,7 @@ Texts are formatted according to the standards of the [CITE Architecture](http:/
 
 ## Text Browser
 
-The [CITE App for browsing and searching texts with canonical citation.](https://furman-editions-in-progress.github.io/UNESP_FU/cite-1.14.0.html)
+The [CITE App for browsing and searching texts with canonical citation.](https://furman-editions-in-progress.github.io/UNESP_FU/cite-1.16.0.html)
 
 ## Links to Alignment Tools
 

@@ -1,0 +1,1016 @@
+#!cexversion
+3.0
+
+#!citelibrary
+name#CEX Library created by CEXWriter
+urn#urn:cite2:cex:TEMPCOLL.TEMPVERSION:TEMP_ID
+license#Public Domain.
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:tlg0012.tlg002.murray:#Plaintext#Homeric Epic#Odyssey#Perseus Greek, following Murray##true#grc
+urn:cts:fufolio:pope.odyssey.fu2019:#book, stanza, line#Alexander Pope#Odyssey#Furman Ed. 2019##true#eng
+
+#!ctsdata
+urn:cts:greekLit:tlg0012.tlg002.murray:1.1#ἄνδρα μοι ἔννεπε, μοῦσα, πολύτροπον, ὃς μάλα πολλὰ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.2#πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.3#πολλῶν δʼ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.4#πολλὰ δʼ ὅ γʼ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.5#ἀρνύμενος ἥν τε ψυχὴν καὶ νόστον ἑταίρων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.6#ἀλλʼ οὐδʼ ὣς ἑτάρους ἐρρύσατο, ἱέμενός περ·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.7#αὐτῶν γὰρ σφετέρῃσιν ἀτασθαλίῃσιν ὄλοντο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.8#νήπιοι, οἳ κατὰ βοῦς Ὑπερίονος Ἠελίοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:1.9#ἤσθιον· αὐτὰρ ὁ τοῖσιν ἀφείλετο νόστιμον ἦμαρ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.10#τῶν ἁμόθεν γε,  θεά, θύγατερ Διός, εἰπὲ καὶ ἡμῖν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.11#ἔνθʼ ἄλλοι μὲν πάντες, ὅσοι φύγον αἰπὺν ὄλεθρον,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.12#οἴκοι ἔσαν, πόλεμόν τε πεφευγότες ἠδὲ θάλασσαν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.13#τὸν δʼ οἶον νόστου κεχρημένον ἠδὲ γυναικὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.14#νύμφη πότνιʼ ἔρυκε Καλυψὼ δῖα θεάων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.15#ἐν σπέσσι γλαφυροῖσι,  λιλαιομένη πόσιν εἶναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.16#ἀλλʼ ὅτε δὴ ἔτος ἦλθε περιπλομένων ἐνιαυτῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.17#τῷ οἱ ἐπεκλώσαντο θεοὶ οἶκόνδε νέεσθαι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.18#εἰς Ἰθάκην, οὐδʼ ἔνθα πεφυγμένος ἦεν ἀέθλων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.19#καὶ μετὰ οἷσι φίλοισι. θεοὶ δʼ ἐλέαιρον ἅπαντες
+urn:cts:greekLit:tlg0012.tlg002.murray:1.20#νόσφι Ποσειδάωνος· ὁ δʼ ἀσπερχὲς μενέαινεν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.21#ἀντιθέῳ Ὀδυσῆι πάρος ἣν γαῖαν ἱκέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.22#ἀλλʼ ὁ μὲν Αἰθίοπας μετεκίαθε τηλόθʼ ἐόντας,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.23#Αἰθίοπας τοὶ διχθὰ δεδαίαται, ἔσχατοι ἀνδρῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.24#οἱ μὲν δυσομένου Ὑπερίονος οἱ δʼ ἀνιόντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.25#ἀντιόων ταύρων τε καὶ ἀρνειῶν ἑκατόμβης.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.26#ἔνθʼ ὅ γʼ ἐτέρπετο δαιτὶ παρήμενος· οἱ δὲ δὴ ἄλλοι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.27#Ζηνὸς ἐνὶ μεγάροισιν Ὀλυμπίου ἁθρόοι ἦσαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.28#τοῖσι δὲ μύθων ἦρχε πατὴρ ἀνδρῶν τε θεῶν τε·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.29#μνήσατο γὰρ κατὰ θυμὸν ἀμύμονος Αἰγίσθοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.30#τόν ῥʼ Ἀγαμεμνονίδης τηλεκλυτὸς ἔκτανʼ Ὀρέστης·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.31#τοῦ ὅ γʼ ἐπιμνησθεὶς ἔπεʼ ἀθανάτοισι μετηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.32#ὢ πόποι, οἷον δή νυ θεοὺς βροτοὶ αἰτιόωνται·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.33#ἐξ ἡμέων γάρ φασι κάκʼ ἔμμεναι, οἱ δὲ καὶ αὐτοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.34#σφῇσιν ἀτασθαλίῃσιν ὑπὲρ μόρον ἄλγεʼ ἔχουσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.35#ὡς καὶ νῦν Αἴγισθος ὑπὲρ μόρον Ἀτρεΐδαο
+urn:cts:greekLit:tlg0012.tlg002.murray:1.36#γῆμʼ ἄλοχον μνηστήν, τὸν δʼ ἔκτανε νοστήσαντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.37#εἰδὼς αἰπὺν ὄλεθρον, ἐπεὶ πρό οἱ εἴπομεν ἡμεῖς,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.38#Ἑρμείαν πέμψαντες, ἐύσκοπον ἀργεϊφόντην,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.39#μήτʼ αὐτὸν κτείνειν μήτε μνάασθαι ἄκοιτιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.40#ἐκ γὰρ Ὀρέσταο τίσις ἔσσεται Ἀτρεΐδαο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.41#ὁππότʼ ἂν ἡβήσῃ τε καὶ ἧς ἱμείρεται αἴης.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.42#ὣς ἔφαθʼ Ἑρμείας, ἀλλʼ οὐ φρένας Αἰγίσθοιο
+urn:cts:greekLit:tlg0012.tlg002.murray:1.43#πεῖθʼ ἀγαθὰ φρονέων· νῦν δʼ ἁθρόα πάντʼ ἀπέτισεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.44#τὸν δʼ ἠμείβετʼ ἔπειτα θεά, γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.45#ὦ πάτερ ἡμέτερε Κρονίδη,  ὕπατε κρειόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.46#καὶ λίην κεῖνός γε ἐοικότι κεῖται ὀλέθρῳ·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.47#ὡς ἀπόλοιτο καὶ ἄλλος, ὅτις τοιαῦτά γε ῥέζοι·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.48#ἀλλά μοι ἀμφʼ Ὀδυσῆι δαΐφρονι δαίεται ἦτορ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.49#δυσμόρῳ, ὃς δὴ δηθὰ φίλων ἄπο πήματα πάσχει
+urn:cts:greekLit:tlg0012.tlg002.murray:1.50#νήσῳ ἐν ἀμφιρύτῃ,  ὅθι τʼ ὀμφαλός ἐστι θαλάσσης.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.51#νῆσος δενδρήεσσα, θεὰ δʼ ἐν δώματα ναίει,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.52#Ἄτλαντος θυγάτηρ ὀλοόφρονος, ὅς τε θαλάσσης
+urn:cts:greekLit:tlg0012.tlg002.murray:1.53#πάσης βένθεα οἶδεν, ἔχει δέ τε κίονας αὐτὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.54#μακράς, αἳ γαῖάν τε καὶ οὐρανὸν ἀμφὶς ἔχουσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.55#τοῦ θυγάτηρ δύστηνον ὀδυρόμενον κατερύκει,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.56#αἰεὶ δὲ μαλακοῖσι καὶ αἱμυλίοισι λόγοισιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.57#θέλγει, ὅπως Ἰθάκης ἐπιλήσεται· αὐτὰρ Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.58#ἱέμενος καὶ καπνὸν ἀποθρῴσκοντα νοῆσαι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.59#ἧς γαίης, θανέειν ἱμείρεται. οὐδέ νυ σοί περ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.60#ἐντρέπεται φίλον ἦτορ,  Ὀλύμπιε. οὔ νύ τʼ Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.61#Ἀργείων παρὰ νηυσὶ χαρίζετο ἱερὰ ῥέζων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.62#Τροίῃ ἐν εὐρείῃ; τί νύ οἱ τόσον ὠδύσαο, Ζεῦ;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.63#τὴν δʼ ἀπαμειβόμενος προσέφη νεφεληγερέτα Ζεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.64#τέκνον ἐμόν, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.65#πῶς ἂν ἔπειτʼ Ὀδυσῆος ἐγὼ θείοιο λαθοίμην,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.66#ὃς περὶ μὲν νόον ἐστὶ βροτῶν, περὶ δʼ ἱρὰ θεοῖσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.67#ἀθανάτοισιν ἔδωκε, τοὶ οὐρανὸν εὐρὺν ἔχουσιν;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.68#ἀλλὰ Ποσειδάων γαιήοχος ἀσκελὲς αἰεὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.69#Κύκλωπος κεχόλωται, ὃν ὀφθαλμοῦ ἀλάωσεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.70#ἀντίθεον Πολύφημον,  ὅου κράτος ἐστὶ μέγιστον
+urn:cts:greekLit:tlg0012.tlg002.murray:1.71#πᾶσιν Κυκλώπεσσι· Θόωσα δέ μιν τέκε νύμφη,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.72#Φόρκυνος θυγάτηρ ἁλὸς ἀτρυγέτοιο μέδοντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.73#ἐν σπέσσι γλαφυροῖσι Ποσειδάωνι μιγεῖσα.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.74#ἐκ τοῦ δὴ Ὀδυσῆα Ποσειδάων ἐνοσίχθων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.75#οὔ τι κατακτείνει,  πλάζει δʼ ἀπὸ πατρίδος αἴης.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.76#ἀλλʼ ἄγεθʼ, ἡμεῖς οἵδε περιφραζώμεθα πάντες
+urn:cts:greekLit:tlg0012.tlg002.murray:1.77#νόστον, ὅπως ἔλθῃσι· Ποσειδάων δὲ μεθήσει
+urn:cts:greekLit:tlg0012.tlg002.murray:1.78#ὃν χόλον· οὐ μὲν γάρ τι δυνήσεται ἀντία πάντων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.79#ἀθανάτων ἀέκητι θεῶν ἐριδαινέμεν οἶος.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.80#τὸν δʼ ἠμείβετʼ ἔπειτα θεά,  γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.81#ὦ πάτερ ἡμέτερε Κρονίδη, ὕπατε κρειόντων,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.82#εἰ μὲν δὴ νῦν τοῦτο φίλον μακάρεσσι θεοῖσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.83#νοστῆσαι Ὀδυσῆα πολύφρονα ὅνδε δόμονδε,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.84#Ἑρμείαν μὲν ἔπειτα διάκτορον ἀργεϊφόντην
+urn:cts:greekLit:tlg0012.tlg002.murray:1.85#νῆσον ἐς Ὠγυγίην ὀτρύνομεν,  ὄφρα τάχιστα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.86#νύμφῃ ἐυπλοκάμῳ εἴπῃ νημερτέα βουλήν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.87#νόστον Ὀδυσσῆος ταλασίφρονος, ὥς κε νέηται·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.88#αὐτὰρ ἐγὼν Ἰθάκηνδʼ ἐσελεύσομαι, ὄφρα οἱ υἱὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.89#μᾶλλον ἐποτρύνω καί οἱ μένος ἐν φρεσὶ θείω,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.90#εἰς ἀγορὴν καλέσαντα κάρη κομόωντας Ἀχαιοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.91#πᾶσι μνηστήρεσσιν ἀπειπέμεν, οἵ τέ οἱ αἰεὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.92#μῆλʼ ἁδινὰ σφάζουσι καὶ εἰλίποδας ἕλικας βοῦς.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.93#πέμψω δʼ ἐς Σπάρτην τε καὶ ἐς Πύλον ἠμαθόεντα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.94#νόστον πευσόμενον πατρὸς φίλου, ἤν που ἀκούσῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.95#ἠδʼ ἵνα μιν κλέος ἐσθλὸν ἐν ἀνθρώποισιν ἔχῃσιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.96#ὣς εἰποῦσʼ ὑπὸ ποσσὶν ἐδήσατο καλὰ πέδιλα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.97#ἀμβρόσια χρύσεια, τά μιν φέρον ἠμὲν ἐφʼ ὑγρὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.98#ἠδʼ ἐπʼ ἀπείρονα γαῖαν ἅμα πνοιῇς ἀνέμοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.99#εἵλετο δʼ ἄλκιμον ἔγχος, ἀκαχμένον ὀξέι χαλκῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.100#βριθὺ μέγα στιβαρόν,  τῷ δάμνησι στίχας ἀνδρῶν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.101#ἡρώων, τοῖσίν τε κοτέσσεται ὀβριμοπάτρη.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.102#βῆ δὲ κατʼ Οὐλύμποιο καρήνων ἀίξασα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.103#στῆ δʼ Ἰθάκης ἐνὶ δήμῳ ἐπὶ προθύροις Ὀδυσῆος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.104#οὐδοῦ ἐπʼ αὐλείου· παλάμῃ δʼ ἔχε χάλκεον ἔγχος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.105#εἰδομένη ξείνῳ,  Ταφίων ἡγήτορι Μέντῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.106#εὗρε δʼ ἄρα μνηστῆρας ἀγήνορας. οἱ μὲν ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.107#πεσσοῖσι προπάροιθε θυράων θυμὸν ἔτερπον
+urn:cts:greekLit:tlg0012.tlg002.murray:1.108#ἥμενοι ἐν ῥινοῖσι βοῶν, οὓς ἔκτανον αὐτοί·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.109#κήρυκες δʼ αὐτοῖσι καὶ ὀτρηροὶ θεράποντες
+urn:cts:greekLit:tlg0012.tlg002.murray:1.110#οἱ μὲν οἶνον ἔμισγον ἐνὶ κρητῆρσι καὶ ὕδωρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.111#οἱ δʼ αὖτε σπόγγοισι πολυτρήτοισι τραπέζας
+urn:cts:greekLit:tlg0012.tlg002.murray:1.112#νίζον καὶ πρότιθεν, τοὶ δὲ κρέα πολλὰ δατεῦντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.113#τὴν δὲ πολὺ πρῶτος ἴδε Τηλέμαχος θεοειδής,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.114#ἧστο γὰρ ἐν μνηστῆρσι φίλον τετιημένος ἦτορ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.115#ὀσσόμενος πατέρʼ ἐσθλὸν ἐνὶ φρεσίν,  εἴ ποθεν ἐλθὼν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.116#μνηστήρων τῶν μὲν σκέδασιν κατὰ δώματα θείη,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.117#τιμὴν δʼ αὐτὸς ἔχοι καὶ δώμασιν οἷσιν ἀνάσσοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.118#τὰ φρονέων, μνηστῆρσι μεθήμενος, εἴσιδʼ Ἀθήνην.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.119#βῆ δʼ ἰθὺς προθύροιο, νεμεσσήθη δʼ ἐνὶ θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.120#ξεῖνον δηθὰ θύρῃσιν ἐφεστάμεν· ἐγγύθι δὲ στὰς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.121#χεῖρʼ ἕλε δεξιτερὴν καὶ ἐδέξατο χάλκεον ἔγχος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.122#καί μιν φωνήσας ἔπεα πτερόεντα προσηύδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.123#χαῖρε, ξεῖνε, παρʼ ἄμμι φιλήσεαι· αὐτὰρ ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.124#δείπνου πασσάμενος μυθήσεαι ὅττεό σε χρή.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.125#ὣς εἰπὼν ἡγεῖθʼ,  ἡ δʼ ἕσπετο Παλλὰς Ἀθήνη.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.126#οἱ δʼ ὅτε δή ῥʼ ἔντοσθεν ἔσαν δόμου ὑψηλοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.127#ἔγχος μέν ῥʼ ἔστησε φέρων πρὸς κίονα μακρὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.128#δουροδόκης ἔντοσθεν ἐυξόου, ἔνθα περ ἄλλα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.129#ἔγχεʼ Ὀδυσσῆος ταλασίφρονος ἵστατο πολλά,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.130#αὐτὴν δʼ ἐς θρόνον εἷσεν ἄγων,  ὑπὸ λῖτα πετάσσας,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.131#καλὸν δαιδάλεον· ὑπὸ δὲ θρῆνυς ποσὶν ἦεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.132#πὰρ δʼ αὐτὸς κλισμὸν θέτο ποικίλον, ἔκτοθεν ἄλλων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.133#μνηστήρων, μὴ ξεῖνος ἀνιηθεὶς ὀρυμαγδῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.134#δείπνῳ ἁδήσειεν, ὑπερφιάλοισι μετελθών,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.135#ἠδʼ ἵνα μιν περὶ πατρὸς ἀποιχομένοιο ἔροιτο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.136#χέρνιβα δʼ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.137#καλῇ χρυσείῃ, ὑπὲρ ἀργυρέοιο λέβητος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.138#νίψασθαι· παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.139#σῖτον δʼ αἰδοίη ταμίη παρέθηκε φέρουσα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.140#εἴδατα πόλλʼ ἐπιθεῖσα,  χαριζομένη παρεόντων·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.141#δαιτρὸς δὲ κρειῶν πίνακας παρέθηκεν ἀείρας
+urn:cts:greekLit:tlg0012.tlg002.murray:1.142#παντοίων, παρὰ δέ σφι τίθει χρύσεια κύπελλα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.143#κῆρυξ δʼ αὐτοῖσιν θάμʼ ἐπῴχετο οἰνοχοεύων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.144#ἐς δʼ ἦλθον μνηστῆρες ἀγήνορες. οἱ μὲν ἔπειτα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.145#ἑξείης ἕζοντο κατὰ κλισμούς τε θρόνους τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.146#τοῖσι δὲ κήρυκες μὲν ὕδωρ ἐπὶ χεῖρας ἔχευαν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.147#σῖτον δὲ δμῳαὶ παρενήνεον ἐν κανέοισιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.148#κοῦροι δὲ κρητῆρας ἐπεστέψαντο ποτοῖο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.149#οἱ δʼ ἐπʼ ὀνείαθʼ ἑτοῖμα προκείμενα χεῖρας ἴαλλον.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.150#αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο
+urn:cts:greekLit:tlg0012.tlg002.murray:1.151#μνηστῆρες, τοῖσιν μὲν ἐνὶ φρεσὶν ἄλλα μεμήλει,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.152#μολπή τʼ ὀρχηστύς τε· τὰ γάρ τʼ ἀναθήματα δαιτός·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.153#κῆρυξ δʼ ἐν χερσὶν κίθαριν περικαλλέα θῆκεν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.154#Φημίῳ, ὅς ῥʼ ἤειδε παρὰ μνηστῆρσιν ἀνάγκῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.155#ἦ τοι ὁ φορμίζων ἀνεβάλλετο καλὸν ἀείδειν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.156#αὐτὰρ Τηλέμαχος προσέφη γλαυκῶπιν Ἀθήνην,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.157#ἄγχι σχὼν κεφαλήν, ἵνα μὴ πευθοίαθʼ οἱ ἄλλοι·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.158#ξεῖνε φίλʼ, ἦ καί μοι νεμεσήσεαι ὅττι κεν εἴπω;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.159#τούτοισιν μὲν ταῦτα μέλει, κίθαρις καὶ ἀοιδή,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.160#ῥεῖʼ,  ἐπεὶ ἀλλότριον βίοτον νήποινον ἔδουσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.161#ἀνέρος, οὗ δή που λεύκʼ ὀστέα πύθεται ὄμβρῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.162#κείμενʼ ἐπʼ ἠπείρου, ἢ εἰν ἁλὶ κῦμα κυλίνδει.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.163#εἰ κεῖνόν γʼ Ἰθάκηνδε ἰδοίατο νοστήσαντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.164#πάντες κʼ ἀρησαίατʼ ἐλαφρότεροι πόδας εἶναι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.165#ἢ ἀφνειότεροι χρυσοῖό τε ἐσθῆτός τε.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.166#νῦν δʼ ὁ μὲν ὣς ἀπόλωλε κακὸν μόρον, οὐδέ τις ἡμῖν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.167#θαλπωρή, εἴ πέρ τις ἐπιχθονίων ἀνθρώπων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.168#φῇσιν ἐλεύσεσθαι· τοῦ δʼ ὤλετο νόστιμον ἦμαρ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.169#ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.170#τίς  πόθεν εἰς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.171#ὁπποίης τʼ ἐπὶ νηὸς ἀφίκεο· πῶς δέ σε ναῦται
+urn:cts:greekLit:tlg0012.tlg002.murray:1.172#ἤγαγον εἰς Ἰθάκην; τίνες ἔμμεναι εὐχετόωντο;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.173#οὐ μὲν γάρ τί σε πεζὸν ὀίομαι ἐνθάδʼ ἱκέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.174#καί μοι τοῦτʼ ἀγόρευσον ἐτήτυμον, ὄφρʼ ἐὺ εἰδῶ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.175#ἠὲ νέον μεθέπεις ἦ καὶ πατρώιός ἐσσι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.176#ξεῖνος, ἐπεὶ πολλοὶ ἴσαν ἀνέρες ἡμέτερον δῶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.177#ἄλλοι, ἐπεὶ καὶ κεῖνος ἐπίστροφος ἦν ἀνθρώπων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.178#τὸν δʼ αὖτε προσέειπε θεά, γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.179#τοιγὰρ ἐγώ τοι ταῦτα μάλʼ ἀτρεκέως ἀγορεύσω.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.180#Μέντης Ἀγχιάλοιο δαΐφρονος εὔχομαι εἶναι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.181#υἱός, ἀτὰρ Ταφίοισι φιληρέτμοισιν ἀνάσσω.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.182#νῦν δʼ ὧδε ξὺν νηὶ κατήλυθον ἠδʼ ἑτάροισιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.183#πλέων ἐπὶ οἴνοπα πόντον ἐπʼ ἀλλοθρόους ἀνθρώπους,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.184#ἐς Τεμέσην μετὰ χαλκόν, ἄγω δʼ αἴθωνα σίδηρον.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.185#νηῦς δέ μοι ἥδʼ ἕστηκεν ἐπʼ ἀγροῦ νόσφι πόληος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.186#ἐν λιμένι Ῥείθρῳ ὑπὸ Νηίῳ ὑλήεντι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.187#ξεῖνοι δʼ ἀλλήλων πατρώιοι εὐχόμεθʼ εἶναι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.188#ἐξ ἀρχῆς, εἴ πέρ τε γέροντʼ εἴρηαι ἐπελθὼν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.189#Λαέρτην ἥρωα, τὸν οὐκέτι φασὶ πόλινδε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.190#ἔρχεσθʼ,  ἀλλʼ ἀπάνευθεν ἐπʼ ἀγροῦ πήματα πάσχειν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.191#γρηὶ σὺν ἀμφιπόλῳ, ἥ οἱ βρῶσίν τε πόσιν τε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.192#παρτιθεῖ, εὖτʼ ἄν μιν κάματος κατὰ γυῖα λάβῃσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.193#ἑρπύζοντʼ ἀνὰ γουνὸν ἀλωῆς οἰνοπέδοιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.194#νῦν δʼ ἦλθον· δὴ γάρ μιν ἔφαντʼ ἐπιδήμιον εἶναι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.195#σὸν πατέρʼ· ἀλλά νυ τόν γε θεοὶ βλάπτουσι κελεύθου.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.196#οὐ γάρ πω τέθνηκεν ἐπὶ χθονὶ δῖος Ὀδυσσεύς,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.197#ἀλλʼ ἔτι που ζωὸς κατερύκεται εὐρέι πόντῳ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.198#νήσῳ ἐν ἀμφιρύτῃ, χαλεποὶ δέ μιν ἄνδρες ἔχουσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.199#ἄγριοι, οἵ που κεῖνον ἐρυκανόωσʼ ἀέκοντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.200#αὐτὰρ νῦν τοι ἐγὼ μαντεύσομαι,  ὡς ἐνὶ θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.201#ἀθάνατοι βάλλουσι καὶ ὡς τελέεσθαι ὀίω,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.202#οὔτε τι μάντις ἐὼν οὔτʼ οἰωνῶν σάφα εἰδώς.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.203#οὔ τοι ἔτι δηρόν γε φίλης ἀπὸ πατρίδος αἴης
+urn:cts:greekLit:tlg0012.tlg002.murray:1.204#ἔσσεται, οὐδʼ εἴ πέρ τε σιδήρεα δέσματʼ ἔχῃσιν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.205#φράσσεται ὥς κε νέηται,  ἐπεὶ πολυμήχανός ἐστιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.206#ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.207#εἰ δὴ ἐξ αὐτοῖο τόσος πάϊς εἰς Ὀδυσῆος.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.208#αἰνῶς μὲν κεφαλήν τε καὶ ὄμματα καλὰ ἔοικας
+urn:cts:greekLit:tlg0012.tlg002.murray:1.209#κείνῳ, ἐπεὶ θαμὰ τοῖον ἐμισγόμεθʼ ἀλλήλοισιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.210#πρίν γε τὸν ἐς Τροίην ἀναβήμεναι,  ἔνθα περ ἄλλοι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.211#Ἀργείων οἱ ἄριστοι ἔβαν κοίλῃς ἐνὶ νηυσίν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.212#ἐκ τοῦ δʼ οὔτʼ Ὀδυσῆα ἐγὼν ἴδον οὔτʼ ἔμʼ ἐκεῖνος.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.213#τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.214#τοιγὰρ ἐγώ τοι, ξεῖνε, μάλʼ ἀτρεκέως ἀγορεύσω.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.215#μήτηρ μέν τέ μέ φησι τοῦ ἔμμεναι,  αὐτὰρ ἐγώ γε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.216#οὐκ οἶδʼ· οὐ γάρ πώ τις ἑὸν γόνον αὐτὸς ἀνέγνω.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.217#ὡς δὴ ἐγώ γʼ ὄφελον μάκαρός νύ τευ ἔμμεναι υἱὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.218#ἀνέρος, ὃν κτεάτεσσιν ἑοῖς ἔπι γῆρας ἔτετμε.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.219#νῦν δʼ ὃς ἀποτμότατος γένετο θνητῶν ἀνθρώπων,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.220#τοῦ μʼ ἔκ φασι γενέσθαι,  ἐπεὶ σύ με τοῦτʼ ἐρεείνεις.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.221#τὸν δʼ αὖτε προσέειπε θεά, γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.222#οὐ μέν τοι γενεήν γε θεοὶ νώνυμνον ὀπίσσω
+urn:cts:greekLit:tlg0012.tlg002.murray:1.223#θῆκαν, ἐπεὶ σέ γε τοῖον ἐγείνατο Πηνελόπεια.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.224#ἀλλʼ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.225#τίς δαίς,  τίς δὲ ὅμιλος ὅδʼ ἔπλετο; τίπτε δέ σε χρεώ;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.226#εἰλαπίνη ἠὲ γάμος; ἐπεὶ οὐκ ἔρανος τάδε γʼ ἐστίν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.227#ὥς τέ μοι ὑβρίζοντες ὑπερφιάλως δοκέουσι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.228#δαίνυσθαι κατὰ δῶμα. νεμεσσήσαιτό κεν ἀνὴρ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.229#αἴσχεα πόλλʼ ὁρόων, ὅς τις πινυτός γε μετέλθοι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.230#τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.231#ξεῖνʼ, ἐπεὶ ἂρ δὴ ταῦτά μʼ ἀνείρεαι ἠδὲ μεταλλᾷς,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.232#μέλλεν μέν ποτε οἶκος ὅδʼ ἀφνειὸς καὶ ἀμύμων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.233#ἔμμεναι, ὄφρʼ ἔτι κεῖνος ἀνὴρ ἐπιδήμιος ἦεν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.234#νῦν δʼ ἑτέρως ἐβόλοντο θεοὶ κακὰ μητιόωντες,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.235#οἳ κεῖνον μὲν ἄιστον ἐποίησαν περὶ πάντων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.236#ἀνθρώπων, ἐπεὶ οὔ κε θανόντι περ ὧδʼ ἀκαχοίμην,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.237#εἰ μετὰ οἷς ἑτάροισι δάμη Τρώων ἐνὶ δήμῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.238#ἠὲ φίλων ἐν χερσίν, ἐπεὶ πόλεμον τολύπευσεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.239#τῷ κέν οἱ τύμβον μὲν ἐποίησαν Παναχαιοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.240#ἠδέ κε καὶ ᾧ παιδὶ μέγα κλέος ἤρατʼ ὀπίσσω.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.241#νῦν δέ μιν ἀκλειῶς ἅρπυιαι ἀνηρείψαντο·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.242#οἴχετʼ ἄιστος ἄπυστος, ἐμοὶ δʼ ὀδύνας τε γόους τε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.243#κάλλιπεν. οὐδέ τι κεῖνον ὀδυρόμενος στεναχίζω
+urn:cts:greekLit:tlg0012.tlg002.murray:1.244#οἶον, ἐπεί νύ μοι ἄλλα θεοὶ κακὰ κήδεʼ ἔτευξαν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.245#ὅσσοι γὰρ νήσοισιν ἐπικρατέουσιν ἄριστοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.246#Δουλιχίῳ τε Σάμῃ τε καὶ ὑλήεντι Ζακύνθῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.247#ἠδʼ ὅσσοι κραναὴν Ἰθάκην κάτα κοιρανέουσιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.248#τόσσοι μητέρʼ ἐμὴν μνῶνται, τρύχουσι δὲ οἶκον.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.249#ἡ δʼ οὔτʼ ἀρνεῖται στυγερὸν γάμον οὔτε τελευτὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.250#ποιῆσαι δύναται· τοὶ δὲ φθινύθουσιν ἔδοντες
+urn:cts:greekLit:tlg0012.tlg002.murray:1.251#οἶκον ἐμόν· τάχα δή με διαρραίσουσι καὶ αὐτόν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.252#τὸν δʼ ἐπαλαστήσασα προσηύδα Παλλὰς Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.253#ὢ πόποι, ἦ δὴ πολλὸν ἀποιχομένου Ὀδυσῆος
+urn:cts:greekLit:tlg0012.tlg002.murray:1.254#δεύῃ, ὅ κε μνηστῆρσιν ἀναιδέσι χεῖρας ἐφείη.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.255#εἰ γὰρ νῦν ἐλθὼν δόμου ἐν πρώτῃσι θύρῃσι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.256#σταίη, ἔχων πήληκα καὶ ἀσπίδα καὶ δύο δοῦρε,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.257#τοῖος ἐὼν οἷόν μιν ἐγὼ τὰ πρῶτʼ ἐνόησα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.258#οἴκῳ ἐν ἡμετέρῳ πίνοντά τε τερπόμενόν τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.259#ἐξ Ἐφύρης ἀνιόντα παρʼ Ἴλου Μερμερίδαο—
+urn:cts:greekLit:tlg0012.tlg002.murray:1.260#ᾤχετο γὰρ καὶ κεῖσε θοῆς ἐπὶ νηὸς Ὀδυσσεὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.261#φάρμακον ἀνδροφόνον διζήμενος, ὄφρα οἱ εἴη
+urn:cts:greekLit:tlg0012.tlg002.murray:1.262#ἰοὺς χρίεσθαι χαλκήρεας· ἀλλʼ ὁ μὲν οὔ οἱ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.263#δῶκεν, ἐπεί ῥα θεοὺς νεμεσίζετο αἰὲν ἐόντας,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.264#ἀλλὰ πατήρ οἱ δῶκεν ἐμός· φιλέεσκε γὰρ αἰνῶς—
+urn:cts:greekLit:tlg0012.tlg002.murray:1.265#τοῖος ἐὼν μνηστῆρσιν ὁμιλήσειεν Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.266#πάντες κʼ ὠκύμοροί τε γενοίατο πικρόγαμοί τε.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.267#ἀλλʼ ἦ τοι μὲν ταῦτα θεῶν ἐν γούνασι κεῖται,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.268#ἤ κεν νοστήσας ἀποτίσεται, ἦε καὶ οὐκί,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.269#οἷσιν ἐνὶ μεγάροισι· σὲ δὲ φράζεσθαι ἄνωγα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.270#ὅππως κε μνηστῆρας ἀπώσεαι ἐκ μεγάροιο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.271#εἰ δʼ ἄγε νῦν ξυνίει καὶ ἐμῶν ἐμπάζεο μύθων·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.272#αὔριον εἰς ἀγορὴν καλέσας ἥρωας Ἀχαιοὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.273#μῦθον πέφραδε πᾶσι, θεοὶ δʼ ἐπὶ μάρτυροι ἔστων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.274#μνηστῆρας μὲν ἐπὶ σφέτερα σκίδνασθαι ἄνωχθι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.275#μητέρα δʼ,  εἴ οἱ θυμὸς ἐφορμᾶται γαμέεσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.276#ἂψ ἴτω ἐς μέγαρον πατρὸς μέγα δυναμένοιο·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.277#οἱ δὲ γάμον τεύξουσι καὶ ἀρτυνέουσιν ἔεδνα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.278#πολλὰ μάλʼ, ὅσσα ἔοικε φίλης ἐπὶ παιδὸς ἕπεσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.279#σοὶ δʼ αὐτῷ πυκινῶς ὑποθήσομαι, αἴ κε πίθηαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.280#νῆʼ ἄρσας ἐρέτῃσιν ἐείκοσιν,  ἥ τις ἀρίστη,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.281#ἔρχεο πευσόμενος πατρὸς δὴν οἰχομένοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.282#ἤν τίς τοι εἴπῃσι βροτῶν, ἢ ὄσσαν ἀκούσῃς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.283#ἐκ Διός, ἥ τε μάλιστα φέρει κλέος ἀνθρώποισι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.284#πρῶτα μὲν ἐς Πύλον ἐλθὲ καὶ εἴρεο Νέστορα δῖον,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.285#κεῖθεν δὲ Σπάρτηνδε παρὰ ξανθὸν Μενέλαον·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.286#ὃς γὰρ δεύτατος ἦλθεν Ἀχαιῶν χαλκοχιτώνων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.287#εἰ μέν κεν πατρὸς βίοτον καὶ νόστον ἀκούσῃς,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.288#ἦ τʼ ἂν τρυχόμενός περ ἔτι τλαίης ἐνιαυτόν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.289#εἰ δέ κε τεθνηῶτος ἀκούσῃς μηδʼ ἔτʼ ἐόντος,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.290#νοστήσας δὴ ἔπειτα φίλην ἐς πατρίδα γαῖαν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.291#σῆμά τέ οἱ χεῦαι καὶ ἐπὶ κτέρεα κτερεΐξαι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.292#πολλὰ μάλʼ, ὅσσα ἔοικε, καὶ ἀνέρι μητέρα δοῦναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.293#αὐτὰρ ἐπὴν δὴ ταῦτα τελευτήσῃς τε καὶ ἔρξῃς,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.294#φράζεσθαι δὴ ἔπειτα κατὰ φρένα καὶ κατὰ θυμὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.295#ὅππως κε μνηστῆρας ἐνὶ μεγάροισι τεοῖσι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.296#κτείνῃς ἠὲ δόλῳ ἢ ἀμφαδόν· οὐδέ τί σε χρὴ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.297#νηπιάας ὀχέειν, ἐπεὶ οὐκέτι τηλίκος ἐσσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.298#ἢ οὐκ ἀίεις οἷον κλέος ἔλλαβε δῖος Ὀρέστης
+urn:cts:greekLit:tlg0012.tlg002.murray:1.299#πάντας ἐπʼ ἀνθρώπους, ἐπεὶ ἔκτανε πατροφονῆα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.300#Αἴγισθον δολόμητιν,  ὅ οἱ πατέρα κλυτὸν ἔκτα;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.301#καὶ σύ, φίλος, μάλα γάρ σʼ ὁρόω καλόν τε μέγαν τε,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.302#ἄλκιμος ἔσσʼ, ἵνα τίς σε καὶ ὀψιγόνων ἐὺ εἴπῃ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.303#αὐτὰρ ἐγὼν ἐπὶ νῆα θοὴν κατελεύσομαι ἤδη
+urn:cts:greekLit:tlg0012.tlg002.murray:1.304#ἠδʼ ἑτάρους, οἵ πού με μάλʼ ἀσχαλόωσι μένοντες·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.305#σοὶ δʼ αὐτῷ μελέτω,  καὶ ἐμῶν ἐμπάζεο μύθων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.306#τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.307#ξεῖνʼ, ἦ τοι μὲν ταῦτα φίλα φρονέων ἀγορεύεις,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.308#ὥς τε πατὴρ ᾧ παιδί, καὶ οὔ ποτε λήσομαι αὐτῶν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.309#ἀλλʼ ἄγε νῦν ἐπίμεινον, ἐπειγόμενός περ ὁδοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.310#ὄφρα λοεσσάμενός τε τεταρπόμενός τε φίλον κῆρ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.311#δῶρον ἔχων ἐπὶ νῆα κίῃς, χαίρων ἐνὶ θυμῷ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.312#τιμῆεν, μάλα καλόν, ὅ τοι κειμήλιον ἔσται
+urn:cts:greekLit:tlg0012.tlg002.murray:1.313#ἐξ ἐμεῦ, οἷα φίλοι ξεῖνοι ξείνοισι διδοῦσι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.314#τὸν δʼ ἠμείβετʼ ἔπειτα θεά, γλαυκῶπις Ἀθήνη·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.315#μή μʼ ἔτι νῦν κατέρυκε,  λιλαιόμενόν περ ὁδοῖο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.316#δῶρον δʼ ὅττι κέ μοι δοῦναι φίλον ἦτορ ἀνώγῃ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.317#αὖτις ἀνερχομένῳ δόμεναι οἶκόνδε φέρεσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.318#καὶ μάλα καλὸν ἑλών· σοὶ δʼ ἄξιον ἔσται ἀμοιβῆς.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.319#ἡ μὲν ἄρʼ ὣς εἰποῦσʼ ἀπέβη γλαυκῶπις Ἀθήνη,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.320#ὄρνις δʼ ὣς ἀνόπαια διέπτατο· τῷ δʼ ἐνὶ θυμῷ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.321#θῆκε μένος καὶ θάρσος, ὑπέμνησέν τέ ἑ πατρὸς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.322#μᾶλλον ἔτʼ ἢ τὸ πάροιθεν. ὁ δὲ φρεσὶν ᾗσι νοήσας
+urn:cts:greekLit:tlg0012.tlg002.murray:1.323#θάμβησεν κατὰ θυμόν· ὀίσατο γὰρ θεὸν εἶναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.324#αὐτίκα δὲ μνηστῆρας ἐπῴχετο ἰσόθεος φώς.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.325#τοῖσι δʼ ἀοιδὸς ἄειδε περικλυτός,  οἱ δὲ σιωπῇ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.326#ἥατʼ ἀκούοντες· ὁ δʼ Ἀχαιῶν νόστον ἄειδε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.327#λυγρόν, ὃν ἐκ Τροίης ἐπετείλατο Παλλὰς Ἀθήνη.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.328#τοῦ δʼ ὑπερωιόθεν φρεσὶ σύνθετο θέσπιν ἀοιδὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.329#κούρη Ἰκαρίοιο, περίφρων Πηνελόπεια·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.330#κλίμακα δʼ ὑψηλὴν κατεβήσετο οἷο δόμοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.331#οὐκ οἴη, ἅμα τῇ γε καὶ ἀμφίπολοι δύʼ ἕποντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.332#ἡ δʼ ὅτε δὴ μνηστῆρας ἀφίκετο δῖα γυναικῶν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.333#στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.334#ἄντα παρειάων σχομένη λιπαρὰ κρήδεμνα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.335#ἀμφίπολος δʼ ἄρα οἱ κεδνὴ ἑκάτερθε παρέστη.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.336#δακρύσασα δʼ ἔπειτα προσηύδα θεῖον ἀοιδόν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.337#Φήμιε, πολλὰ γὰρ ἄλλα βροτῶν θελκτήρια οἶδας,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.338#ἔργʼ ἀνδρῶν τε θεῶν τε, τά τε κλείουσιν ἀοιδοί·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.339#τῶν ἕν γέ σφιν ἄειδε παρήμενος, οἱ δὲ σιωπῇ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.340#οἶνον πινόντων· ταύτης δʼ ἀποπαύεʼ ἀοιδῆς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.341#λυγρῆς, ἥ τέ μοι αἰεὶ ἐνὶ στήθεσσι φίλον κῆρ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.342#τείρει, ἐπεί με μάλιστα καθίκετο πένθος ἄλαστον.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.343#τοίην γὰρ κεφαλὴν ποθέω μεμνημένη αἰεί,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.344#ἀνδρός, τοῦ κλέος εὐρὺ καθʼ Ἑλλάδα καὶ μέσον Ἄργος.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.345#τὴν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.346#μῆτερ ἐμή, τί τʼ ἄρα φθονέεις ἐρίηρον ἀοιδὸν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.347#τέρπειν ὅππῃ οἱ νόος ὄρνυται; οὔ νύ τʼ ἀοιδοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.348#αἴτιοι, ἀλλά ποθι Ζεὺς αἴτιος, ὅς τε δίδωσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.349#ἀνδράσιν ἀλφηστῇσιν, ὅπως ἐθέλῃσιν, ἑκάστῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.350#τούτῳ δʼ οὐ νέμεσις Δαναῶν κακὸν οἶτον ἀείδειν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.351#τὴν γὰρ ἀοιδὴν μᾶλλον ἐπικλείουσʼ ἄνθρωποι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.352#ἥ τις ἀκουόντεσσι νεωτάτη ἀμφιπέληται.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.353#σοὶ δʼ ἐπιτολμάτω κραδίη καὶ θυμὸς ἀκούειν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.354#οὐ γὰρ Ὀδυσσεὺς οἶος ἀπώλεσε νόστιμον ἦμαρ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.355#ἐν Τροίῃ,  πολλοὶ δὲ καὶ ἄλλοι φῶτες ὄλοντο.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.356#ἀλλʼ εἰς οἶκον ἰοῦσα τὰ σʼ αὐτῆς ἔργα κόμιζε,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.357#ἱστόν τʼ ἠλακάτην τε, καὶ ἀμφιπόλοισι κέλευε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.358#ἔργον ἐποίχεσθαι· μῦθος δʼ ἄνδρεσσι μελήσει
+urn:cts:greekLit:tlg0012.tlg002.murray:1.359#πᾶσι, μάλιστα δʼ ἐμοί· τοῦ γὰρ κράτος ἔστʼ ἐνὶ οἴκῳ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.360#ἡ μὲν θαμβήσασα πάλιν οἶκόνδε βεβήκει·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.361#παιδὸς γὰρ μῦθον πεπνυμένον ἔνθετο θυμῷ.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.362#ἐς δʼ ὑπερῷʼ ἀναβᾶσα σὺν ἀμφιπόλοισι γυναιξὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.363#κλαῖεν ἔπειτʼ Ὀδυσῆα φίλον πόσιν, ὄφρα οἱ ὕπνον
+urn:cts:greekLit:tlg0012.tlg002.murray:1.364#ἡδὺν ἐπὶ βλεφάροισι βάλε γλαυκῶπις Ἀθήνη.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.365#μνηστῆρες δʼ ὁμάδησαν ἀνὰ μέγαρα σκιόεντα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.366#πάντες δʼ ἠρήσαντο παραὶ λεχέεσσι κλιθῆναι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.367#τοῖσι δὲ Τηλέμαχος πεπνυμένος ἤρχετο μύθων·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.368#μητρὸς ἐμῆς μνηστῆρες ὑπέρβιον ὕβριν ἔχοντες,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.369#νῦν μὲν δαινύμενοι τερπώμεθα, μηδὲ βοητὺς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.370#ἔστω,  ἐπεὶ τόδε καλὸν ἀκουέμεν ἐστὶν ἀοιδοῦ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.371#τοιοῦδʼ οἷος ὅδʼ ἐστί, θεοῖς ἐναλίγκιος αὐδήν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.372#ἠῶθεν δʼ ἀγορήνδε καθεζώμεσθα κιόντες
+urn:cts:greekLit:tlg0012.tlg002.murray:1.373#πάντες, ἵνʼ ὕμιν μῦθον ἀπηλεγέως ἀποείπω,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.374#ἐξιέναι μεγάρων· ἄλλας δʼ ἀλεγύνετε δαῖτας,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.375#ὑμὰ κτήματʼ ἔδοντες,  ἀμειβόμενοι κατὰ οἴκους.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.376#εἰ δʼ ὕμιν δοκέει τόδε λωίτερον καὶ ἄμεινον
+urn:cts:greekLit:tlg0012.tlg002.murray:1.377#ἔμμεναι, ἀνδρὸς ἑνὸς βίοτον νήποινον ὀλέσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.378#κείρετʼ· ἐγὼ δὲ θεοὺς ἐπιβώσομαι αἰὲν ἐόντας,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.379#αἴ κέ ποθι Ζεὺς δῷσι παλίντιτα ἔργα γενέσθαι·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.380#νήποινοί κεν ἔπειτα δόμων ἔντοσθεν ὄλοισθε.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.381#ὣς ἔφαθʼ, οἱ δʼ ἄρα πάντες ὀδὰξ ἐν χείλεσι φύντες
+urn:cts:greekLit:tlg0012.tlg002.murray:1.382#Τηλέμαχον θαύμαζον, ὃ θαρσαλέως ἀγόρευεν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.383#τὸν δʼ αὖτʼ Ἀντίνοος προσέφη, Εὐπείθεος υἱός·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.384#Τηλέμαχʼ, ἦ μάλα δή σε διδάσκουσιν θεοὶ αὐτοὶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.385#ὑψαγόρην τʼ ἔμεναι καὶ θαρσαλέως ἀγορεύειν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.386#μὴ σέ γʼ ἐν ἀμφιάλῳ Ἰθάκῃ βασιλῆα Κρονίων
+urn:cts:greekLit:tlg0012.tlg002.murray:1.387#ποιήσειεν, ὅ τοι γενεῇ πατρώιόν ἐστιν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.388#τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.389#Ἀντίνοʼ, ἦ καί μοι νεμεσήσεαι ὅττι κεν εἴπω;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.390#καί κεν τοῦτʼ ἐθέλοιμι Διός γε διδόντος ἀρέσθαι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.391#ἦ φῂς τοῦτο κάκιστον ἐν ἀνθρώποισι τετύχθαι;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.392#οὐ μὲν γάρ τι κακὸν βασιλευέμεν· αἶψά τέ οἱ δῶ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.393#ἀφνειὸν πέλεται καὶ τιμηέστερος αὐτός.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.394#ἀλλʼ ἦ τοι βασιλῆες Ἀχαιῶν εἰσὶ καὶ ἄλλοι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.395#πολλοὶ ἐν ἀμφιάλῳ Ἰθάκῃ,  νέοι ἠδὲ παλαιοί,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.396#τῶν κέν τις τόδʼ ἔχῃσιν, ἐπεὶ θάνε δῖος Ὀδυσσεύς·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.397#αὐτὰρ ἐγὼν οἴκοιο ἄναξ ἔσομʼ ἡμετέροιο
+urn:cts:greekLit:tlg0012.tlg002.murray:1.398#καὶ δμώων, οὕς μοι ληίσσατο δῖος Ὀδυσσεύς.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.399#τὸν δʼ αὖτʼ Εὐρύμαχος Πολύβου πάϊς ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.400#Τηλέμαχʼ,  ἦ τοι ταῦτα θεῶν ἐν γούνασι κεῖται,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.401#ὅς τις ἐν ἀμφιάλῳ Ἰθάκῃ βασιλεύσει Ἀχαιῶν·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.402#κτήματα δʼ αὐτὸς ἔχοις καὶ δώμασιν οἷσιν ἀνάσσοις.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.403#μὴ γὰρ ὅ γʼ ἔλθοι ἀνὴρ ὅς τίς σʼ ἀέκοντα βίηφιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.404#κτήματʼ ἀπορραίσει, Ἰθάκης ἔτι ναιετοώσης.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.405#ἀλλʼ ἐθέλω σε,  φέριστε, περὶ ξείνοιο ἐρέσθαι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.406#ὁππόθεν οὗτος ἀνήρ, ποίης δʼ ἐξ εὔχεται εἶναι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.407#γαίης, ποῦ δέ νύ οἱ γενεὴ καὶ πατρὶς ἄρουρα.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.408#ἠέ τινʼ ἀγγελίην πατρὸς φέρει ἐρχομένοιο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.409#ἦ ἑὸν αὐτοῦ χρεῖος ἐελδόμενος τόδʼ ἱκάνει;
+urn:cts:greekLit:tlg0012.tlg002.murray:1.410#οἷον ἀναΐξας ἄφαρ οἴχεται,  οὐδʼ ὑπέμεινε
+urn:cts:greekLit:tlg0012.tlg002.murray:1.411#γνώμεναι· οὐ μὲν γάρ τι κακῷ εἰς ὦπα ἐῴκει.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.412#τὸν δʼ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.413#Εὐρύμαχʼ, ἦ τοι νόστος ἀπώλετο πατρὸς ἐμοῖο·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.414#οὔτʼ οὖν ἀγγελίῃ ἔτι πείθομαι, εἴ ποθεν ἔλθοι,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.415#οὔτε θεοπροπίης ἐμπάζομαι,  ἥν τινα μήτηρ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.416#ἐς μέγαρον καλέσασα θεοπρόπον ἐξερέηται.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.417#ξεῖνος δʼ οὗτος ἐμὸς πατρώιος ἐκ Τάφου ἐστίν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.418#Μέντης δʼ Ἀγχιάλοιο δαΐφρονος εὔχεται εἶναι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.419#υἱός, ἀτὰρ Ταφίοισι φιληρέτμοισιν ἀνάσσει.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.420#ὣς φάτο Τηλέμαχος, φρεσὶ δʼ ἀθανάτην θεὸν ἔγνω.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.421#οἱ δʼ εἰς ὀρχηστύν τε καὶ ἱμερόεσσαν ἀοιδὴν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.422#τρεψάμενοι τέρποντο, μένον δʼ ἐπὶ ἕσπερον ἐλθεῖν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.423#τοῖσι δὲ τερπομένοισι μέλας ἐπὶ ἕσπερος ἦλθε·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.424#δὴ τότε κακκείοντες ἔβαν οἶκόνδε ἕκαστος.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.425#Τηλέμαχος δʼ,  ὅθι οἱ θάλαμος περικαλλέος αὐλῆς
+urn:cts:greekLit:tlg0012.tlg002.murray:1.426#ὑψηλὸς δέδμητο περισκέπτῳ ἐνὶ χώρῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.427#ἔνθʼ ἔβη εἰς εὐνὴν πολλὰ φρεσὶ μερμηρίζων.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.428#τῷ δʼ ἄρʼ ἅμʼ αἰθομένας δαΐδας φέρε κεδνὰ ἰδυῖα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.429#Εὐρύκλειʼ, Ὦπος θυγάτηρ Πεισηνορίδαο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.430#τήν ποτε Λαέρτης πρίατο κτεάτεσσιν ἑοῖσιν
+urn:cts:greekLit:tlg0012.tlg002.murray:1.431#πρωθήβην ἔτʼ ἐοῦσαν, ἐεικοσάβοια δʼ ἔδωκεν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.432#ἶσα δέ μιν κεδνῇ ἀλόχῳ τίεν ἐν μεγάροισιν,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.433#εὐνῇ δʼ οὔ ποτʼ ἔμικτο, χόλον δʼ ἀλέεινε γυναικός·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.434#ἥ οἱ ἅμʼ αἰθομένας δαΐδας φέρε, καί ἑ μάλιστα
+urn:cts:greekLit:tlg0012.tlg002.murray:1.435#δμῳάων φιλέεσκε,  καὶ ἔτρεφε τυτθὸν ἐόντα.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.436#ὤιξεν δὲ θύρας θαλάμου πύκα ποιητοῖο,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.437#ἕζετο δʼ ἐν λέκτρῳ, μαλακὸν δʼ ἔκδυνε χιτῶνα·
+urn:cts:greekLit:tlg0012.tlg002.murray:1.438#καὶ τὸν μὲν γραίης πυκιμηδέος ἔμβαλε χερσίν.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.439#ἡ μὲν τὸν πτύξασα καὶ ἀσκήσασα χιτῶνα,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.440#πασσάλῳ ἀγκρεμάσασα παρὰ τρητοῖσι λέχεσσι
+urn:cts:greekLit:tlg0012.tlg002.murray:1.441#βῆ ῥʼ ἴμεν ἐκ θαλάμοιο, θύρην δʼ ἐπέρυσσε κορώνῃ
+urn:cts:greekLit:tlg0012.tlg002.murray:1.442#ἀργυρέῃ, ἐπὶ δὲ κληῖδʼ ἐτάνυσσεν ἱμάντι.
+urn:cts:greekLit:tlg0012.tlg002.murray:1.443#ἔνθʼ ὅ γε παννύχιος, κεκαλυμμένος οἰὸς ἀώτῳ,
+urn:cts:greekLit:tlg0012.tlg002.murray:1.444#βούλευε φρεσὶν ᾗσιν ὁδὸν τὴν πέφραδʼ Ἀθήνη.
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.1#The man for wisdom's various arts renown'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.2#Long exercised in woes, O Muse! resound;
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.3#Who, when his arms had wrought the destined fall
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.4#Of sacred Troy, and razed her heaven-built wall,
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.5#Wandering from clime to clime, observant stray'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.6#Their manners noted, and their states survey'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.7#On stormy seas unnumber'd toils he bore,
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.8#Safe with his friends to gain his natal shore:
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.9#Vain toils! their impious folly dared to prey
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.10#On herds devoted to the god of day;
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.11#The god vindictive doom'd them never more
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.12#(Ah, men unbless'd!) to touch that natal shore.
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.13#Oh, snatch some portion of these acts from fate,
+urn:cts:fufolio:pope.odyssey.fu2019:1.1.14#Celestial Muse! and to our world relate.
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.1#Now at their native realms the Greeks arrived;
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.2#All who the wars of ten long years survived;
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.3#And 'scaped the perils of the gulfy main.
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.4#Ulysses, sole of all the victor train,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.5#An exile from his dear paternal coast,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.6#Deplored his absent queen and empire lost.
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.7#Calypso in her caves constrain'd his stay,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.8#With sweet, reluctant, amorous delay;
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.9#In vain-for now the circling years disclose
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.10#The day predestined to reward his woes.
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.11#At length his Ithaca is given by fate,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.12#Where yet new labours his arrival wait;
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.13#At length their rage the hostile powers restrain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.14#All but the ruthless monarch of the main.
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.15#But now the god, remote, a heavenly guest,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.16#In AEthiopia graced the genial feast
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.17#(A race divided, whom with sloping rays
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.18#The rising and descending sun surveys);
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.19#There on the world's extremest verge revered
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.20#With hecatombs and prayer in pomp preferr'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.21#Distant he lay: while in the bright abodes
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.22#Of high Olympus, Jove convened the gods:
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.23#The assembly thus the sire supreme address'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.24#AEgysthus' fate revolving in his breast,
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.25#Whom young Orestes to the dreary coast
+urn:cts:fufolio:pope.odyssey.fu2019:1.2.26#Of Pluto sent, a blood-polluted ghost.
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.1#"Perverse mankind! whose wills, created free,
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.2#Charge all their woes on absolute degree;
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.3#All to the dooming gods their guilt translate,
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.4#And follies are miscall'd the crimes of fate.
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.5#When to his lust AEgysthus gave the rein,
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.6#Did fate, or we, the adulterous act constrain?
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.7#Did fate, or we, when great Atrides died,
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.8#Urge the bold traitor to the regicide?
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.9#Hermes I sent, while yet his soul remain'd
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.10#Sincere from royal blood, and faith profaned;
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.11#To warn the wretch, that young Orestes, grown
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.12#To manly years, should re-assert the throne.
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.13#Yet, impotent of mind, and uncontroll'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.3.14#He plunged into the gulf which Heaven foretold."
+urn:cts:fufolio:pope.odyssey.fu2019:1.4.1#Here paused the god; and pensive thus replies
+urn:cts:fufolio:pope.odyssey.fu2019:1.4.2#Minerva, graceful with her azure eyes:
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.1#"O thou! from whom the whole creation springs,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.2#The source of power on earth derived to kings!
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.3#His death was equal to the direful deed;
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.4#So may the man of blood be doomed to bleed!
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.5#But grief and rage alternate wound my breast
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.6#For brave Ulysses, still by fate oppress'd.
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.7#Amidst an isle, around whose rocky shore
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.8#The forests murmur, and the surges roar,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.9#The blameless hero from his wish'd-for home
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.10#A goddess guards in her enchanted dome;
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.11#(Atlas her sire, to whose far-piercing eye
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.12#The wonders of the deep expanded lie;
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.13#The eternal columns which on earth he rears
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.14#End in the starry vault, and prop the spheres).
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.15#By his fair daughter is the chief confined,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.16#Who soothes to dear delight his anxious mind;
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.17#Successless all her soft caresses prove,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.18#To banish from his breast his country's love;
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.19#To see the smoke from his loved palace rise,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.20#While the dear isle in distant prospect lies,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.21#With what contentment could he close his eyes!
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.22#And will Omnipotence neglect to save
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.23#The suffering virtue of the wise and brave?
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.24#Must he, whose altars on the Phrygian shore
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.25#With frequent rites, and pure, avow'd thy power,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.26#Be doom'd the worst of human ills to prove,
+urn:cts:fufolio:pope.odyssey.fu2019:1.5.27#Unbless'd, abandon'd to the wrath of Jove?"
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.1#"Daughter! what words have pass'd thy lips unweigh'd!
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.2#(Replied the Thunderer to the martial maid;)
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.3#Deem not unjustly by my doom oppress'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.4#Of human race the wisest and the best.
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.5#Neptune, by prayer repentant rarely won,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.6#Afflicts the chief, to avenge his giant son,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.7#Whose visual orb Ulysses robb'd of light;
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.8#Great Polypheme, of more than mortal might?
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.9#Him young Thousa bore (the bright increase
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.10#Of Phorcys, dreaded in the sounds and seas);
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.11#Whom Neptune eyed with bloom of beauty bless'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.12#And in his cave the yielding nymph compress'd
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.13#For this the god constrains the Greek to roam,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.14#A hopeless exile from his native home,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.15#From death alone exempt--but cease to mourn;
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.16#Let all combine to achieve his wish'd return;
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.17#Neptune atoned, his wrath shall now refrain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.6.18#Or thwart the synod of the gods in vain."
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.1#"Father and king adored!" Minerva cried,
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.2#"Since all who in the Olympian bower reside
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.3#Now make the wandering Greek their public care,
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.4#Let Hermes to the Atlantic isle repair;
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.5#Bid him, arrived in bright Calypso's court,
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.6#The sanction of the assembled powers report:
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.7#That wise Ulysses to his native land
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.8#Must speed, obedient to their high command.
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.9#Meantime Telemachus, the blooming heir
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.10#Of sea-girt Ithaca, demands my care;
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.11#'Tis mine to form his green, unpractised years
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.12#In sage debates; surrounded with his peers,
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.13#To save the state, and timely to restrain
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.14#The bold intrusion of the suitor-train;
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.15#Who crowd his palace, and with lawless power
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.16#His herds and flocks in feastful rites devour.
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.17#To distant Sparta, and the spacious waste
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.18#Of Sandy Pyle, the royal youth shall haste.
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.19#There, warm with filial love, the cause inquire
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.20#That from his realm retards his god-like sire;
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.21#Delivering early to the voice of fame
+urn:cts:fufolio:pope.odyssey.fu2019:1.7.22#The promise of a green immortal name."
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.1#She said: the sandals of celestial mould,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.2#Fledged with ambrosial plumes, and rich with gold,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.3#Surround her feet: with these sublime she sails
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.4#The aerial space, and mounts the winged gales;
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.5#O'er earth and ocean wide prepared to soar,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.6#Her dreaded arm a beamy javelin bore,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.7#Ponderous and vast: which, when her fury burns,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.8#Proud tyrants humbles, and whole hosts o'erturns.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.9#From high Olympus prone her flight she bends,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.10#And in the realms of Ithaca descends,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.11#Her lineaments divine, the grave disguise
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.12#Of Mentes' form conceal'd from human eyes
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.13#(Mentes, the monarch of the Taphian land);
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.14#A glittering spear waved awful in her hand.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.15#There in the portal placed, the heaven-born maid
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.16#Enormous riot and misrule survey'd.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.17#On hides of beeves, before the palace gate
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.18#(Sad spoils of luxury), the suitors sate.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.19#With rival art, and ardour in their mien,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.20#At chess they vie, to captivate the queen;
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.21#Divining of their loves.  Attending nigh,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.22#A menial train the flowing bowl supply.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.23#Others, apart, the spacious hall prepare,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.24#And form the costly feast with busy care.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.25#There young Telemachus, his bloomy face
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.26#Glowing celestial sweet, with godlike grace
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.27#Amid the circle shines: but hope and fear
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.28#(Painful vicissitude!) his bosom tear.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.29#Now, imaged in his mind, he sees restored
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.30#In peace and joy the people's rightful lord;
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.31#The proud oppressors fly the vengeful sword.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.32#While his fond soul these fancied triumphs swell'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.33#The stranger guest the royal youth beheld;
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.34#Grieved that a visitant so long should wait
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.35#Unmark'd, unhonour'd, at a monarch's gate;
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.36#Instant he flew with hospitable haste,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.37#And the new friend with courteous air embraced.
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.38#"Stranger, whoe'er thou art, securely rest,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.39#Affianced in my faith, a ready guest;
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.40#Approach the dome, the social banquet share,
+urn:cts:fufolio:pope.odyssey.fu2019:1.8.41#And then the purpose of thy soul declare."
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.1#Thus affable and mild, the prince precedes,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.2#And to the dome the unknown celestial leads.
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.3#The spear receiving from the hand, he placed
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.4#Against a column, fair with sculpture graced;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.5#Where seemly ranged in peaceful order stood
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.6#Ulysses' arms now long disused to blood.
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.7#He led the goddess to the sovereign seat,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.8#Her feet supported with a stool of state
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.9#(A purple carpet spread the pavement wide);
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.10#Then drew his seat, familiar, to her side;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.11#Far from the suitor-train, a brutal crowd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.12#With insolence, and wine, elate and loud:
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.13#Where the free guest, unnoted, might relate,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.14#If haply conscious, of his father's fate.
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.15#The golden ewer a maid obsequious brings,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.16#Replenish'd from the cool, translucent springs;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.17#With copious water the bright vase supplies
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.18#A silver laver of capacious size;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.19#They wash. The tables in fair order spread,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.20#They heap the glittering canisters with bread:
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.21#Viands of various kinds allure the taste,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.22#Of choicest sort and savour, rich repast!
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.23#Delicious wines the attending herald brought;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.24#The gold gave lustre to the purple draught.
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.25#Lured with the vapour of the fragrant feast,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.26#In rush'd the suitors with voracious haste;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.27#Marshall'd in order due, to each a sewer
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.28#Presents, to bathe his hands, a radiant ewer.
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.29#Luxurious then they feast. Observant round
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.30#Gay stripling youths the brimming goblets crown'd.
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.31#The rage of hunger quell'd, they all advance
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.32#And form to measured airs the mazy dance;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.33#To Phemius was consign'd the chorded lyre,
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.34#Whose hand reluctant touch'd the warbling wire;
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.35#Phemius, whose voice divine could sweetest sing
+urn:cts:fufolio:pope.odyssey.fu2019:1.9.36#High strains responsive to the vocal string.
+urn:cts:fufolio:pope.odyssey.fu2019:1.10.1#Meanwhile, in whispers to his heavenly guest
+urn:cts:fufolio:pope.odyssey.fu2019:1.10.2#His indignation thus the prince express'd:
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.1#"Indulge my rising grief, whilst these (my friend)
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.2#With song and dance the pompous revel end.
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.3#Light is the dance, and doubly sweet the lays,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.4#When for the dear delight another pays.
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.5#His treasured stores those cormarants consume,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.6#Whose bones, defrauded of a regal tomb
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.7#And common turf, lie naked on the plain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.8#Or doom'd to welter in the whelming main.
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.9#Should he return, that troop so blithe and bold,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.10#With purple robes inwrought, and stiff with gold,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.11#Precipitant in fear would wing their flight,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.12#And curse their cumbrous pride's unwieldy weight.
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.13#But ah, I dream!-the appointed hour is fled.
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.14#And hope, too long with vain delusion fed,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.15#Deaf to the rumour of fallacious fame,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.16#Gives to the roll of death his glorious name!
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.17#With venial freedom let me now demand
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.18#Thy name, thy lineage, and paternal land;
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.19#Sincere from whence began thy course, recite,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.20#And to what ship I owe the friendly freight?
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.21#Now first to me this visit dost thou deign,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.22#Or number'd in my father's social train?
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.23#All who deserved his choice he made his own,
+urn:cts:fufolio:pope.odyssey.fu2019:1.11.24#And, curious much to know, he far was known."
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.1#"My birth I boast (the blue-eyed virgin cries)
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.2#From great Anchialus, renown'd and wise;
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.3#Mentes my name; I rule the Taphian race,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.4#Whose bounds the deep circumfluent waves embrace;
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.5#A duteous people, and industrious isle,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.6#To naval arts inured, and stormy toil.
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.7#Freighted with iron from my native land,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.8#I steer my voyage to the Brutian strand
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.9#To gain by commerce, for the labour'd mass,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.10#A just proportion of refulgent brass.
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.11#Far from your capital my ship resides
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.12#At Reitorus, and secure at anchor rides;
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.13#Where waving groves on airy Neign grow,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.14#Supremely tall and shade the deeps below.
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.15#Thence to revisit your imperial dome,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.16#An old hereditary guest I come;
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.17#Your father's friend.  Laertes can relate
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.18#Our faith unspotted, and its early date;
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.19#Who, press'd with heart-corroding grief and years,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.20#To the gay court a rural shed pretors,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.21#Where, sole of all his train, a matron sage
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.22#Supports with homely fond his drooping age,
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.23#With feeble steps from marshalling his vines
+urn:cts:fufolio:pope.odyssey.fu2019:1.12.24#Returning sad, when toilsome day declines.
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.1#"With friendly speed, induced by erring fame,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.2#To hail Ulysses' safe return I came;
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.3#But still the frown of some celestial power
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.4#With envious joy retards the blissful hour.
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.5#Let not your soul be sunk in sad despair;
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.6#He lives, he breathes this heavenly vital air,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.7#Among a savage race, whose shelfy bounds
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.8#With ceaseless roar the foaming deep surrounds.
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.9#The thoughts which roll within my ravish'd breast,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.10#To me, no seer, the inspiring gods suggest;
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.11#Nor skill'd nor studious, with prophetic eye
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.12#To judge the winged omens of the sky.
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.13#Yet hear this certain speech, nor deem it vain;
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.14#Though adamantine bonds the chief restrain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.15#The dire restraint his wisdom will defeat,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.16#And soon restore him to his regal seat.
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.17#But generous youth! sincere and free declare,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.18#Are you, of manly growth, his royal heir?
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.19#For sure Ulysses in your look appears,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.20#The same his features, if the same his years.
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.21#Such was that face, on which I dwelt with joy
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.22#Ere Greece assembled stemm'd the tides to Troy;
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.23#But, parting then for that detested shore,
+urn:cts:fufolio:pope.odyssey.fu2019:1.13.24#Our eyes, unhappy never greeted more."
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.1#"To prove a genuine birth (the prince replies)
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.2#On female truth assenting faith relies.
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.3#Thus manifest of right, I build my claim
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.4#Sure-founded on a fair maternal fame,
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.5#Ulysses' son: but happier he, whom fate
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.6#Hath placed beneath the storms which toss the great!
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.7#Happier the son, whose hoary sire is bless'd
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.8#With humble affluence, and domestic rest!
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.9#Happier than I, to future empire born,
+urn:cts:fufolio:pope.odyssey.fu2019:1.14.10#But doom'd a father's wretch'd fate to mourn!"
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.1#To whom, with aspect mild, the guest divine:
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.2#"Oh true descendant of a sceptred line!
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.3#The gods a glorious fate from anguish free
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.4#To chaste Penelope's increase decree.
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.5#But say, yon jovial troops so gaily dress'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.6#Is this a bridal or a friendly feast?
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.7#Or from their deed I rightlier may divine,
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.8#Unseemly flown with insolence and wine?
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.9#Unwelcome revellers, whose lawless joy
+urn:cts:fufolio:pope.odyssey.fu2019:1.15.10#Pains the sage ear, and hurts the sober eye."
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.1#"Magnificence of old (the prince replied)
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.2#Beneath our roof with virtue could reside;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.3#Unblamed abundance crowned the royal board,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.4#What time this dome revered her prudent lord;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.5#Who now (so Heaven decrees) is doom'd to mourn,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.6#Bitter constraint, erroneous and forlorn.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.7#Better the chief, on Ilion's hostile plain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.8#Had fall'n surrounded with his warlike train;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.9#Or safe return'd, the race of glory pass'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.10#New to his friends' embrace, and breathed his last!
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.11#Then grateful Greece with streaming eyes would raise,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.12#Historic marbles to record his praise;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.13#His praise, eternal on the faithful stone,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.14#Had with transmissive honour graced his son.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.15#Now snatch'd by harpies to the dreary coast.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.16#Sunk is the hero, and his glory lost;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.17#Vanish'd at once! unheard of, and unknown!
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.18#And I his heir in misery alone.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.19#Nor for a dear lost father only flow
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.20#The filial tears, but woe succeeds to woe
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.21#To tempt the spouseless queen with amorous wiles
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.22#Resort the nobles from the neighbouring isles;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.23#From Samos, circled with the Ionian main,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.24#Dulichium, and Zacynthas' sylvan reign;
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.25#Ev'n with presumptuous hope her bed to ascend,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.26#The lords of Ithaca their right pretend.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.27#She seems attentive to their pleaded vows,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.28#Her heart detesting what her ear allows.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.29#They, vain expectants of the bridal hour,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.30#My stores in riotous expense devour.
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.31#In feast and dance the mirthful months employ,
+urn:cts:fufolio:pope.odyssey.fu2019:1.16.32#And meditate my doom to crown their joy."
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.1#With tender pity touch'd, the goddess cried:
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.2#"Soon may kind Heaven a sure relief provide,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.3#Soon may your sire discharge the vengeance due,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.4#And all your wrongs the proud oppressors rue!
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.5#Oh! in that portal should the chief appear,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.6#Each hand tremendous with a brazen spear,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.7#In radiant panoply his limbs incased
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.8#(For so of old my fathers court he graced,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.9#When social mirth unbent his serious soul,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.10#O'er the full banquet, and the sprightly bowl);
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.11#He then from Ephyre, the fair domain
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.12#Of Ilus, sprung from Jason's royal strain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.13#Measured a length of seas, a toilsome length, in vain.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.14#For, voyaging to learn the direful art
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.15#To taint with deadly drugs the barbed dart;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.16#Observant of the gods, and sternly just,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.17#Ilus refused to impart the baneful trust;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.18#With friendlier zeal my father's soul was fired,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.19#The drugs he knew, and gave the boon desired.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.20#Appear'd he now with such heroic port,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.21#As then conspicuous at the Taphian court;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.22#Soon should you boasters cease their haughty strife,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.23#Or each atone his guilty love with life.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.24#But of his wish'd return the care resign,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.25#Be future vengeance to the powers divine.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.26#My sentence hear: with stern distaste avow'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.27#To their own districts drive the suitor-crowd;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.28#When next the morning warms the purple east,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.29#Convoke the peerage, and the gods attest;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.30#The sorrows of your inmost soul relate;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.31#And form sure plans to save the sinking state.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.32#Should second love a pleasing flame inspire,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.33#And the chaste queen connubial rights require;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.34#Dismiss'd with honour, let her hence repair
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.35#To great Icarius, whose paternal care
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.36#Will guide her passion, and reward her choice
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.37#With wealthy dower, and bridal gifts of price.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.38#Then let this dictate of my love prevail:
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.39#Instant, to foreign realms prepare to sail,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.40#To learn your father's fortunes; Fame may prove,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.41#Or omen'd voice (the messenger of Jove),
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.42#Propitious to the search. Direct your toil
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.43#Through the wide ocean first to sandy Pyle;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.44#Of Nestor, hoary sage, his doom demand:
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.45#Thence speed your voyage to the Spartan strand;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.46#For young Atrides to the Achaian coast
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.47#Arrived the last of all the victor host.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.48#If yet Ulysses views the light, forbear,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.49#Till the fleet hours restore the circling year.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.50#But if his soul hath wing'd the destined flight,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.51#Inhabitant of deep disastrous night;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.52#Homeward with pious speed repass the main,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.53#To the pale shade funereal rites ordain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.54#Plant the fair column o'er the vacant grave,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.55#A hero's honours let the hero have.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.56#With decent grief the royal dead deplored,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.57#For the chaste queen select an equal lord.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.58#Then let revenge your daring mind employ,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.59#By fraud or force the suitor train destroy,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.60#And starting into manhood, scorn the boy.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.61#Hast thou not heard how young Orestes, fired
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.62#With great revenge, immortal praise acquired?
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.63#His virgin-sword AEgysthus' veins imbrued;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.64#The murderer fell, and blood atoned for blood.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.65#O greatly bless'd with every blooming grace!
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.66#With equal steps the paths of glory trace;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.67#Join to that royal youth's your rival name,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.68#And shine eternal in the sphere of fame.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.69#But my associates now my stay deplore,
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.70#Impatient on the hoarse-resounding shore.
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.71#Thou, heedful of advice, secure proceed;
+urn:cts:fufolio:pope.odyssey.fu2019:1.17.72#My praise the precept is, be thine the deed.
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.1#"The counsel of my friend (the youth rejoin'd)
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.2#Imprints conviction on my grateful mind.
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.3#So fathers speak (persuasive speech and mild)
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.4#Their sage experience to the favourite child.
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.5#But, since to part, for sweet refection due,
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.6#The genial viands let my train renew;
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.7#And the rich pledge of plighted faith receive,
+urn:cts:fufolio:pope.odyssey.fu2019:1.18.8#Worthy the air of Ithaca to give."
+urn:cts:fufolio:pope.odyssey.fu2019:1.19.1#"Defer the promised boon (the goddess cries,
+urn:cts:fufolio:pope.odyssey.fu2019:1.19.2#Celestial azure brightening in her eyes),
+urn:cts:fufolio:pope.odyssey.fu2019:1.19.3#And let me now regain the Reithrian port;
+urn:cts:fufolio:pope.odyssey.fu2019:1.19.4#From Temese return'd, your royal court
+urn:cts:fufolio:pope.odyssey.fu2019:1.19.5#I shall revisit, and that pledge receive;
+urn:cts:fufolio:pope.odyssey.fu2019:1.19.6#And gifts, memorial of our friendship, leave."
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.1#Abrupt, with eagle-speed she cut the sky;
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.2#Instant invisible to mortal eye.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.3#Then first he recognized the ethereal guest;
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.4#Wonder and joy alternate fire his breast;
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.5#Heroic thoughts, infused, his heart dilate;
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.6#Revolving much his father's doubtful fate.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.7#At length, composed, he join'd the suitor-throng;
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.8#Hush'd in attention to the warbled song.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.9#His tender theme the charming lyrist chose.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.10#Minerva's anger, and the dreadful woes
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.11#Which voyaging from Troy the victors bore,
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.12#While storms vindictive intercept the store.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.13#The shrilling airs the vaulted roof rebounds,
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.14#Reflecting to the queen the silver sounds.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.15#With grief renew'd the weeping fair descends;
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.16#Their sovereign's step a virgin train attends:
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.17#A veil, of richest texture wrought, she wears,
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.18#And silent to the joyous hall repairs.
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.19#There from the portal, with her mild command,
+urn:cts:fufolio:pope.odyssey.fu2019:1.20.20#Thus gently checks the minstrel's tuneful hand:
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.1#"Phemius! let acts of gods, and heroes old,
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.2#What ancient bards in hall and bower have told,
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.3#Attemper'd to the lyre, your voice employ;
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.4#Such the pleased ear will drink with silent joy.
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.5#But, oh! forbear that dear disastrous name,
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.6#To sorrow sacred, and secure of fame;
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.7#My bleeding bosom sickens at the sound,
+urn:cts:fufolio:pope.odyssey.fu2019:1.21.8#And every piercing note inflicts a wound."
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.1#"Why, dearest object of my duteous love,
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.2#(Replied the prince,) will you the bard reprove?
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.3#Oft, Jove's ethereal rays (resistless fire)
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.4#The chanters soul and raptured song inspire
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.5#Instinct divine? nor blame severe his choice,
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.6#Warbling the Grecian woes with heart and voice;
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.7#For novel lays attract our ravish'd ears;
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.8#But old, the mind with inattention hears:
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.9#Patient permit the sadly pleasing strain;
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.10#Familiar now with grief, your tears refrain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.11#And in the public woe forget your own;
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.12#You weep not for a perish'd lord alone.
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.13#What Greeks new wandering in the Stygian gloom,
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.14#Wish your Ulysses shared an equal doom!
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.15#Your widow'd hours, apart, with female toil
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.16#And various labours of the loom beguile;
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.17#There rule, from palace-cares remote and free;
+urn:cts:fufolio:pope.odyssey.fu2019:1.22.18#That care to man belongs, and most to me."
+urn:cts:fufolio:pope.odyssey.fu2019:1.23.1#Mature beyond his years, the queen admires
+urn:cts:fufolio:pope.odyssey.fu2019:1.23.2#His sage reply, and with her train retires.
+urn:cts:fufolio:pope.odyssey.fu2019:1.23.3#Then swelling sorrows burst their former bounds,
+urn:cts:fufolio:pope.odyssey.fu2019:1.23.4#With echoing grief afresh the dome resounds;
+urn:cts:fufolio:pope.odyssey.fu2019:1.23.5#Till Pallas, piteous of her plaintive cries,
+urn:cts:fufolio:pope.odyssey.fu2019:1.23.6#In slumber closed her silver-streaming eyes.
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.1#Meantime, rekindled at the royal charms,
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.2#Tumultuous love each beating bosom warms;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.3#Intemperate rage a wordy war began;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.4#But bold Telemachus assumed the man.
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.5#"Instant (he cried) your female discord end,
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.6#Ye deedless boasters! and the song attend;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.7#Obey that sweet compulsion, nor profane
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.8#With dissonance the smooth melodious strain.
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.9#Pacific now prolong the jovial feast;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.10#But when the dawn reveals the rosy east,
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.11#I, to the peers assembled, shall propose
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.12#The firm resolve, I here in few disclose;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.13#No longer live the cankers of my court;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.14#All to your several states with speed resort;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.15#Waste in wild riot what your land allows,
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.16#There ply the early feast, and late carouse.
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.17#But if, to honour lost, 'tis still decreed
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.18#For you my bowl shall flow, my flock shall bleed;
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.19#Judge and revenge my right, impartial Jove!
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.20#By him and all the immortal thrones above
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.21#(A sacred oath), each proud oppressor slain,
+urn:cts:fufolio:pope.odyssey.fu2019:1.24.22#Shall with inglorious gore this marble stain."
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.1#Awed by the prince, thus haughty, bold, and young,
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.2#Rage gnaw'd the lip, and wonder chain'd the tongue.
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.3#Silence at length the gay Antinous broke,
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.4#Constrain'd a smile, and thus ambiguous spoke:
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.5#"What god to your untutor'd youth affords
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.6#This headlong torrent of amazing words?
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.7#May Jove delay thy reign, and cumber late
+urn:cts:fufolio:pope.odyssey.fu2019:1.25.8#So bright a genius with the toils of state!"
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.1#"Those toils (Telemachus serene replies)
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.2#Have charms, with all their weight, t'allure the wise.
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.3#Fast by the throne obsequious fame resides,
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.4#And wealth incessant rolls her golden tides.
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.5#Nor let Antinous rage, if strong desire
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.6#Of wealth and fame a youthful bosom fire:
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.7#Elect by Jove, his delegate of sway,
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.8#With joyous pride the summons I'd obey.
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.9#Whene'er Ulysses roams the realm of night,
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.10#Should factious power dispute my lineal right,
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.11#Some other Greeks a fairer claim may plead;
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.12#To your pretence their title would precede.
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.13#At least, the sceptre lost, I still should reign
+urn:cts:fufolio:pope.odyssey.fu2019:1.26.14#Sole o'er my vassals, and domestic train."
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.1#To this Eurymachus: "To Heaven alone
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.2#Refer the choice to fill the vacant throne.
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.3#Your patrimonial stores in peace possess;
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.4#Undoubted, all your filial claim confess:
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.5#Your private right should impious power invade,
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.6#The peers of Ithaca would arm in aid.
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.7#But say, that stranger guest who late withdrew,
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.8#What and from whence? his name and lineage shew.
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.9#His grave demeanour and majestic grace
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.10#Speak him descended of no vulgar race:
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.11#Did he some loan of ancient right require,
+urn:cts:fufolio:pope.odyssey.fu2019:1.27.12#Or came forerunner of your sceptr'd sire?"
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.1#"Oh son of Polybus!" the prince replies,
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.2#"No more my sire will glad these longing eyes;
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.3#The queen's fond hope inventive rumour cheers,
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.4#Or vain diviners' dreams divert her fears.
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.5#That stranger-guest the Taphian realm obeys,
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.6#A realm defended with encircling seas.
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.7#Mentes, an ever-honour'd name, of old
+urn:cts:fufolio:pope.odyssey.fu2019:1.28.8#High in Ulysses' social list enroll'd."
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.1#Thus he, though conscious of the ethereal guest,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.2#Answer'd evasive of the sly request.
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.3#Meantime the lyre rejoins the sprightly lay;
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.4#Love-dittied airs, and dance, conclude the day
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.5#But when the star of eve with golden light
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.6#Adorn'd the matron brow of sable night,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.7#The mirthful train dispersing quit the court,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.8#And to their several domes to rest resort.
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.9#A towering structure to the palace join'd;
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.10#To this his steps the thoughtful prince inclined:
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.11#In his pavilion there, to sleep repairs;
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.12#The lighted torch, the sage Euryclea bears
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.13#(Daughter of Ops, the just Pisenor's son,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.14#For twenty beeves by great Laertes won;
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.15#In rosy prime with charms attractive graced,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.16#Honour'd by him, a gentle lord and chaste,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.17#With dear esteem: too wise, with jealous strife
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.18#To taint the joys of sweet connubial life.
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.19#Sole with Telemachus her service ends,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.20#A child she nursed him, and a man attends).
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.21#Whilst to his couch himself the prince address'd,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.22#The duteous dame received the purple vest;
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.23#The purple vest with decent care disposed,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.24#The silver ring she pull'd, the door reclosed,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.25#The bolt, obedient to the silken cord,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.26#To the strong staple's inmost depth restored,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.27#Secured the valves. There, wrapped in silent shade,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.28#Pensive, the rules the goddess gave he weigh'd;
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.29#Stretch'd on the downy fleece, no rest he knows,
+urn:cts:fufolio:pope.odyssey.fu2019:1.29.30#And in his raptured soul the vision glows.

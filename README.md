@@ -12,7 +12,6 @@ The [CITE App for browsing and searching texts with canonical citation.](https:/
 
 ## Links to Alignment Tools
 
-- [**Passage Alignment Demo for Sunoikisis**]()
 - [**Translation Alignment Demo for Sunoikisis**](https://furman-editions-in-progress.github.io/UNESP_FU/Alignment_Files/ducat_odyssey_demo.html?urn=urn:cts:greekLit:tlg0012.tlg002.cwb.token:&urn=urn:cts:greekLit:tlg0012.tlg002.murray.token:&urn=urn:cts:greekLit:tlg0012.tlg002.werner.token:&urn=)
 
 - Aesop, *Fabulae*
